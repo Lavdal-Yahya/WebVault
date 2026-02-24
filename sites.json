@@ -1,362 +1,350 @@
 [
   {
-    "name": "Crunchyroll",
-    "url": "https://www.crunchyroll.com",
-    "icon": "🎌",
-    "desc": "The world's largest anime streaming service with simulcasts and a massive library.",
+    "name": "HiAnime",
+    "url": "https://hianime.to",
+    "icon": "🍥",
+    "desc": "Free anime streaming portal with sub/dub catalogs and frequent domain/mirror churn.",
     "category": "Anime & Manga",
-    "tags": ["streaming", "anime", "simulcast"]
+    "tags": ["anime", "streaming", "unverified"]
   },
   {
-    "name": "MyAnimeList",
-    "url": "https://myanimelist.net",
-    "icon": "📋",
-    "desc": "The go-to database for tracking and discovering anime and manga titles.",
-    "category": "Anime & Manga",
-    "tags": ["database", "tracking", "community"]
-  },
-  {
-    "name": "AniList",
-    "url": "https://anilist.co",
-    "icon": "📊",
-    "desc": "A modern anime and manga tracking platform with a beautiful interface.",
-    "category": "Anime & Manga",
-    "tags": ["tracking", "social", "modern"]
-  },
-  {
-    "name": "Mangadex",
-    "url": "https://mangadex.org",
-    "icon": "📖",
-    "desc": "A free manga reader with a huge library of fan-translated manga.",
-    "category": "Anime & Manga",
-    "tags": ["manga", "reader", "free"]
-  },
-  {
-    "name": "IMDb",
-    "url": "https://www.imdb.com",
-    "icon": "🎬",
-    "desc": "The internet's most comprehensive movie and TV database with ratings and reviews.",
-    "category": "Movies & TV",
-    "tags": ["database", "reviews", "ratings"]
-  },
-  {
-    "name": "Letterboxd",
-    "url": "https://letterboxd.com",
-    "icon": "🎞️",
-    "desc": "A social platform for film lovers to log, rate, and review movies.",
-    "category": "Movies & TV",
-    "tags": ["social", "reviews", "logging"]
-  },
-  {
-    "name": "JustWatch",
-    "url": "https://www.justwatch.com",
+    "name": "Gogoanime",
+    "url": "https://gogoanime.by",
     "icon": "📺",
-    "desc": "Find where to stream any movie or TV show across all platforms.",
-    "category": "Movies & TV",
-    "tags": ["streaming guide", "search", "availability"]
+    "desc": "Free anime site offering subbed and dubbed episodes with a large library and regular updates.",
+    "category": "Anime & Manga",
+    "tags": ["anime", "sub/dub", "unverified"]
   },
   {
-    "name": "Trakt",
-    "url": "https://trakt.tv",
-    "icon": "📡",
-    "desc": "Automatically track what you're watching across multiple devices and services.",
-    "category": "Movies & TV",
-    "tags": ["tracking", "automation", "stats"]
+    "name": "Miruro",
+    "url": "https://www.miruro.to",
+    "icon": "🌙",
+    "desc": "Anime streaming brand promoting free HD streams and tracking-style features like AniList sync.",
+    "category": "Anime & Manga",
+    "tags": ["anime", "streaming", "mirrors"]
   },
   {
-    "name": "ESPN",
-    "url": "https://www.espn.com",
-    "icon": "🏟️",
-    "desc": "Comprehensive sports coverage including scores, news, and live streaming.",
-    "category": "Football & Sports",
-    "tags": ["news", "scores", "live"]
+    "name": "Enma",
+    "url": "https://www.enma.lol",
+    "icon": "🔥",
+    "desc": "Free anime streaming site offering subbed and dubbed anime with a simple catalog layout.",
+    "category": "Anime & Manga",
+    "tags": ["anime", "streaming", "unverified"]
   },
   {
-    "name": "Transfermarkt",
-    "url": "https://www.transfermarkt.com",
-    "icon": "⚽",
-    "desc": "The ultimate football transfer and player market value database.",
-    "category": "Football & Sports",
-    "tags": ["football", "transfers", "data"]
+    "name": "Animetsu",
+    "url": "https://animetsu.bz",
+    "icon": "🌀",
+    "desc": "Anime streaming brand that appears across multiple domains and can be JS-heavy/unstable to access.",
+    "category": "Anime & Manga",
+    "tags": ["anime", "mirrors", "unstable"]
   },
   {
-    "name": "FotMob",
-    "url": "https://www.fotmob.com",
-    "icon": "📱",
-    "desc": "Real-time football scores, stats, and match data from leagues worldwide.",
-    "category": "Football & Sports",
-    "tags": ["live scores", "stats", "football"]
+    "name": "AniWatchTV",
+    "url": "https://aniwatchtv.to/home",
+    "icon": "🧭",
+    "desc": "AniWatch-branded anime streaming portal with sub/dub listings and frequent lookalike branding online.",
+    "category": "Anime & Manga",
+    "tags": ["anime", "streaming", "brand-confusable"]
   },
   {
-    "name": "The Athletic",
-    "url": "https://theathletic.com",
-    "icon": "📰",
-    "desc": "Premium, ad-free sports journalism and in-depth analysis.",
-    "category": "Football & Sports",
-    "tags": ["journalism", "analysis", "premium"]
+    "name": "Kaido",
+    "url": "https://kaido.to/home",
+    "icon": "⚔️",
+    "desc": "Free anime streaming catalog with sub/dub options and fast-updating episode releases.",
+    "category": "Anime & Manga",
+    "tags": ["anime", "streaming", "unverified"]
   },
   {
-    "name": "Steam",
-    "url": "https://store.steampowered.com",
-    "icon": "🎮",
-    "desc": "The largest digital distribution platform for PC gaming.",
-    "category": "Gaming Stores",
-    "tags": ["PC", "store", "community"]
+    "name": "AniCrush",
+    "url": "https://anicrush.to/home",
+    "icon": "💥",
+    "desc": "Anime streaming site with community features and a third-party content disclaimer style common to aggregators.",
+    "category": "Anime & Manga",
+    "tags": ["anime", "community", "unverified"]
   },
   {
-    "name": "Epic Games Store",
-    "url": "https://store.epicgames.com",
-    "icon": "🕹️",
-    "desc": "Digital game store with weekly free games and exclusive titles.",
-    "category": "Gaming Stores",
-    "tags": ["free games", "exclusives", "PC"]
+    "name": "AnimeKai",
+    "url": "https://animekai.to/home",
+    "icon": "🌸",
+    "desc": "Anime streaming portal offering sub/dub titles and a homepage-driven catalog of trending shows.",
+    "category": "Anime & Manga",
+    "tags": ["anime", "streaming", "unverified"]
   },
+
   {
-    "name": "GOG",
-    "url": "https://www.gog.com",
-    "icon": "💿",
-    "desc": "DRM-free game store specializing in classic and indie titles.",
-    "category": "Gaming Stores",
-    "tags": ["DRM-free", "classics", "indie"]
-  },
-  {
-    "name": "IsThereAnyDeal",
-    "url": "https://isthereanydeal.com",
-    "icon": "💰",
-    "desc": "Compare game prices across dozens of legitimate stores.",
-    "category": "Gaming Stores",
-    "tags": ["deals", "price comparison", "alerts"]
-  },
-  {
-    "name": "Humble Bundle",
-    "url": "https://www.humblebundle.com",
-    "icon": "🎁",
-    "desc": "Pay what you want for game bundles and support charity.",
-    "category": "Gaming Stores",
-    "tags": ["bundles", "charity", "deals"]
-  },
-  {
-    "name": "Figma",
-    "url": "https://www.figma.com",
-    "icon": "🎨",
-    "desc": "Collaborative design tool for UI/UX, prototyping, and graphic design.",
-    "category": "Photo & Video Editing",
-    "tags": ["design", "collaboration", "UI/UX"]
-  },
-  {
-    "name": "Canva",
-    "url": "https://www.canva.com",
-    "icon": "🖼️",
-    "desc": "Easy-to-use design platform with templates for any visual content.",
-    "category": "Photo & Video Editing",
-    "tags": ["templates", "social media", "easy"]
-  },
-  {
-    "name": "Photopea",
-    "url": "https://www.photopea.com",
-    "icon": "🖌️",
-    "desc": "Free, browser-based Photoshop alternative with PSD support.",
-    "category": "Photo & Video Editing",
-    "tags": ["free", "browser", "PSD"]
-  },
-  {
-    "name": "DaVinci Resolve",
-    "url": "https://www.blackmagicdesign.com/products/davinciresolve",
-    "icon": "🎥",
-    "desc": "Professional-grade video editing, color grading, and VFX — free tier available.",
-    "category": "Photo & Video Editing",
-    "tags": ["video editing", "color grading", "professional"]
-  },
-  {
-    "name": "Remove.bg",
-    "url": "https://www.remove.bg",
-    "icon": "✂️",
-    "desc": "Instantly remove image backgrounds with AI in seconds.",
-    "category": "Photo & Video Editing",
-    "tags": ["AI", "background removal", "quick"]
-  },
-  {
-    "name": "ChatGPT",
-    "url": "https://chat.openai.com",
-    "icon": "🤖",
-    "desc": "OpenAI's powerful conversational AI for writing, coding, and brainstorming.",
-    "category": "AI & Content Generation",
-    "tags": ["chatbot", "writing", "coding"]
-  },
-  {
-    "name": "Midjourney",
-    "url": "https://www.midjourney.com",
-    "icon": "🖼️",
-    "desc": "AI art generator that creates stunning images from text prompts.",
-    "category": "AI & Content Generation",
-    "tags": ["art", "images", "text-to-image"]
-  },
-  {
-    "name": "Claude",
-    "url": "https://claude.ai",
-    "icon": "💬",
-    "desc": "Anthropic's helpful, harmless AI assistant for analysis and writing.",
-    "category": "AI & Content Generation",
-    "tags": ["assistant", "analysis", "writing"]
-  },
-  {
-    "name": "ElevenLabs",
-    "url": "https://elevenlabs.io",
-    "icon": "🔊",
-    "desc": "AI voice generation and cloning with incredibly realistic results.",
-    "category": "AI & Content Generation",
-    "tags": ["voice", "TTS", "cloning"]
-  },
-  {
-    "name": "Runway",
-    "url": "https://runwayml.com",
-    "icon": "🎬",
-    "desc": "AI-powered creative tools for video generation and editing.",
-    "category": "AI & Content Generation",
-    "tags": ["video", "generative AI", "creative"]
-  },
-  {
-    "name": "GitHub",
-    "url": "https://github.com",
-    "icon": "🐙",
-    "desc": "The world's leading platform for version control and collaborative development.",
-    "category": "Developer Tools",
-    "tags": ["git", "open source", "collaboration"]
-  },
-  {
-    "name": "Stack Overflow",
-    "url": "https://stackoverflow.com",
+    "name": "MangaBall",
+    "url": "https://mangaball.net",
     "icon": "📚",
-    "desc": "The largest Q&A community for programmers and developers.",
+    "desc": "Manga reader platform centered around community translations and chapter uploads.",
+    "category": "Anime & Manga",
+    "tags": ["manga", "translations", "community"]
+  },
+  {
+    "name": "Atsumaru",
+    "url": "https://atsu.moe",
+    "icon": "🍡",
+    "desc": "Fast, ad-free manga/manhwa/manhua reader with open-source and self-hosted roots.",
+    "category": "Anime & Manga",
+    "tags": ["manga", "reader", "open-source"]
+  },
+  {
+    "name": "Kagane",
+    "url": "https://kagane.org",
+    "icon": "🪶",
+    "desc": "Manga/webcomics reading platform positioning itself as a premium reading experience with policy pages.",
+    "category": "Anime & Manga",
+    "tags": ["manga", "reader", "dmca-policy"]
+  },
+  {
+    "name": "Comick",
+    "url": "https://comick.dev",
+    "icon": "🗂️",
+    "desc": "Manga discovery and reading site with tracking/community features and some historical domain confusion.",
+    "category": "Anime & Manga",
+    "tags": ["manga", "tracking", "community"]
+  },
+  {
+    "name": "MangaDex",
+    "url": "https://mangadex.org",
+    "icon": "🧩",
+    "desc": "Large manga translation aggregation platform with community uploads and broad discovery features.",
+    "category": "Anime & Manga",
+    "tags": ["manga", "scanlation", "community"]
+  },
+
+  {
+    "name": "1Shows",
+    "url": "https://www.1shows.nl",
+    "icon": "🎞️",
+    "desc": "Free streaming-style portal for movies and TV with a catalog-first browsing experience.",
+    "category": "Movies & TV",
+    "tags": ["movies", "tv", "unverified"]
+  },
+  {
+    "name": "1Flex",
+    "url": "https://www.1flex.nl",
+    "icon": "📺",
+    "desc": "All-in-one streaming portal with sections for movies, TV, live TV, and sports.",
+    "category": "Movies & TV",
+    "tags": ["movies", "live-tv", "unverified"]
+  },
+  {
+    "name": "RgShows",
+    "url": "https://www.rgshows.ru",
+    "icon": "🧱",
+    "desc": "Streaming portal that publishes a DMCA page and provides third-party links; includes torrent-navigation pages.",
+    "category": "Movies & TV",
+    "tags": ["movies", "torrents", "high-risk"]
+  },
+  {
+    "name": "AlienFlix",
+    "url": "https://alienflix.net",
+    "icon": "👽",
+    "desc": "Movies/TV streaming catalog with a common “does not store files” third-party linking disclaimer pattern.",
+    "category": "Movies & TV",
+    "tags": ["movies", "tv", "high-risk"]
+  },
+  {
+    "name": "FlickyStream",
+    "url": "https://flickystream.ru",
+    "icon": "🍿",
+    "desc": "Streaming-style movies and TV site marketed around fast browsing and high-quality playback.",
+    "category": "Movies & TV",
+    "tags": ["movies", "tv", "unverified"]
+  },
+  {
+    "name": "SFlix",
+    "url": "https://sflix.fi",
+    "icon": "🎬",
+    "desc": "Free movies and TV streaming brand with aggregator-style disclaimers and a large catalog layout.",
+    "category": "Movies & TV",
+    "tags": ["movies", "tv", "high-risk"]
+  },
+  {
+    "name": "FMovies-HD",
+    "url": "https://fmovies-hd.to/home/",
+    "icon": "🎥",
+    "desc": "FMovies-branded free streaming portal with third-party linking disclaimers and a catalog of movies/series.",
+    "category": "Movies & TV",
+    "tags": ["movies", "streaming", "high-risk"]
+  },
+  {
+    "name": "StreameX",
+    "url": "https://streamex.net",
+    "icon": "🛜",
+    "desc": "Aggregator-style portal spanning multiple media types, with a published legal/DMCA page and broad catalog.",
+    "category": "Movies & TV",
+    "tags": ["aggregator", "multi-media", "high-risk"]
+  },
+
+  {
+    "name": "NTVSTREAM",
+    "url": "https://ntvstream.cx",
+    "icon": "🏟️",
+    "desc": "Live sports and IPTV-style portal offering multiple stream servers and 24/7 channel navigation.",
+    "category": "Live TV & IPTV",
+    "tags": ["sports", "iptv", "unverified"]
+  },
+  {
+    "name": "Public IPTV",
+    "url": "https://publiciptv.com",
+    "icon": "🌍",
+    "desc": "Directory of IPTV channels by country and category with a playlist-like browsing structure.",
+    "category": "Live TV & IPTV",
+    "tags": ["iptv", "directory", "unverified"]
+  },
+  {
+    "name": "xStreamEast",
+    "url": "https://xstreameast.com",
+    "icon": "🏀",
+    "desc": "StreamEast-branded site advertising free live sports streams across major leagues.",
+    "category": "Football & Sports",
+    "tags": ["sports", "live-streams", "high-risk"]
+  },
+  {
+    "name": "tv.garden",
+    "url": "https://tv.garden",
+    "icon": "🗺️",
+    "desc": "Live world TV directory that indexes publicly available channels in a simple map-like interface.",
+    "category": "Live TV & IPTV",
+    "tags": ["iptv", "directory", "public-streams"]
+  },
+
+  {
+    "name": "Wegic",
+    "url": "https://wegic.ai",
+    "icon": "🧱",
+    "desc": "AI website builder that creates and publishes sites via chat-style prompts and iteration.",
+    "category": "AI & Content Generation",
+    "tags": ["website builder", "AI", "no-code"]
+  },
+  {
+    "name": "InVideo",
+    "url": "https://invideo.io",
+    "icon": "🎞️",
+    "desc": "Online video creation platform with templates and AI-assisted workflows for fast editing.",
+    "category": "Photo & Video Editing",
+    "tags": ["video", "AI", "editor"]
+  },
+  {
+    "name": "UI Ball",
+    "url": "https://uiball.com",
+    "icon": "🌀",
+    "desc": "Handy frontend resource featuring lightweight open-source loaders, spinners, and UI snippets.",
     "category": "Developer Tools",
-    "tags": ["Q&A", "community", "debugging"]
+    "tags": ["ui", "loaders", "open-source"]
   },
   {
-    "name": "CodePen",
-    "url": "https://codepen.io",
-    "icon": "✏️",
-    "desc": "Social development environment for front-end designers and developers.",
+    "name": "Anime.js",
+    "url": "https://animejs.com",
+    "icon": "✨",
+    "desc": "JavaScript animation library for building smooth, flexible web animations with a simple API.",
     "category": "Developer Tools",
-    "tags": ["playground", "front-end", "sharing"]
+    "tags": ["javascript", "animations", "library"]
   },
   {
-    "name": "Vercel",
-    "url": "https://vercel.com",
-    "icon": "▲",
-    "desc": "Deploy web projects instantly with automatic CI/CD and edge functions.",
+    "name": "Stirling PDF",
+    "url": "https://stirling.com/app/",
+    "icon": "📄",
+    "desc": "Open-source, self-hostable PDF toolkit for converting, editing, redacting, and automating PDF tasks.",
     "category": "Developer Tools",
-    "tags": ["hosting", "deployment", "serverless"]
+    "tags": ["pdf", "self-hosted", "open-source"]
   },
   {
-    "name": "DevDocs",
-    "url": "https://devdocs.io",
-    "icon": "📖",
-    "desc": "Unified API documentation browser with offline support.",
+    "name": "FilePizza",
+    "url": "https://file.pizza",
+    "icon": "🍕",
+    "desc": "Peer-to-peer file sharing in the browser using WebRTC for direct transfers without uploading to a server.",
+    "category": "Privacy & Security",
+    "tags": ["p2p", "webrtc", "file transfer"]
+  },
+  {
+    "name": "Zoo",
+    "url": "https://zoo.dev",
+    "icon": "🦾",
+    "desc": "Modern CAD and hardware design platform featuring a conversational assistant for creating 3D designs.",
     "category": "Developer Tools",
-    "tags": ["docs", "API", "offline"]
+    "tags": ["cad", "hardware", "3d"]
   },
   {
-    "name": "Notion",
-    "url": "https://www.notion.so",
-    "icon": "📝",
-    "desc": "All-in-one workspace for notes, docs, wikis, and project management.",
-    "category": "Productivity",
-    "tags": ["notes", "wiki", "project management"]
-  },
-  {
-    "name": "Obsidian",
-    "url": "https://obsidian.md",
-    "icon": "💎",
-    "desc": "A powerful knowledge base using local Markdown files and graph views.",
-    "category": "Productivity",
-    "tags": ["notes", "markdown", "local-first"]
-  },
-  {
-    "name": "Todoist",
-    "url": "https://todoist.com",
-    "icon": "✅",
-    "desc": "Elegant task manager to organize work and life effortlessly.",
-    "category": "Productivity",
-    "tags": ["tasks", "GTD", "organization"]
-  },
-  {
-    "name": "Excalidraw",
-    "url": "https://excalidraw.com",
-    "icon": "🎯",
-    "desc": "Virtual whiteboard for sketching diagrams with a hand-drawn feel.",
-    "category": "Productivity",
-    "tags": ["whiteboard", "diagrams", "collaboration"]
-  },
-  {
-    "name": "Spotify",
-    "url": "https://www.spotify.com",
-    "icon": "🎵",
-    "desc": "Leading music streaming service with millions of songs and podcasts.",
-    "category": "Music & Audio",
-    "tags": ["streaming", "playlists", "podcasts"]
-  },
-  {
-    "name": "SoundCloud",
-    "url": "https://soundcloud.com",
-    "icon": "🔉",
-    "desc": "Platform for independent artists to share and discover music.",
-    "category": "Music & Audio",
-    "tags": ["indie", "upload", "discover"]
-  },
-  {
-    "name": "Bandcamp",
-    "url": "https://bandcamp.com",
-    "icon": "💿",
-    "desc": "Support artists directly by buying their music and merch.",
-    "category": "Music & Audio",
-    "tags": ["indie", "buy music", "support artists"]
-  },
-  {
-    "name": "Khan Academy",
-    "url": "https://www.khanacademy.org",
+    "name": "ChatEDU",
+    "url": "https://chatedu.io/en",
     "icon": "🎓",
-    "desc": "Free world-class education on math, science, and much more.",
+    "desc": "AI study tools for students, including practice questions and citation-oriented learning helpers.",
     "category": "Learning & Education",
-    "tags": ["free", "courses", "K-12"]
+    "tags": ["study", "AI", "education"]
   },
   {
-    "name": "Coursera",
-    "url": "https://www.coursera.org",
-    "icon": "🏫",
-    "desc": "Online courses from top universities and companies worldwide.",
+    "name": "Symbolab",
+    "url": "https://www.symbolab.com",
+    "icon": "🧮",
+    "desc": "Step-by-step math solver covering algebra through calculus and beyond with worked solutions.",
     "category": "Learning & Education",
-    "tags": ["courses", "certificates", "university"]
+    "tags": ["math", "solver", "step-by-step"]
   },
   {
-    "name": "freeCodeCamp",
-    "url": "https://www.freecodecamp.org",
-    "icon": "💻",
-    "desc": "Learn to code for free with interactive lessons and certifications.",
+    "name": "Mathway",
+    "url": "https://www.mathway.com",
+    "icon": "📐",
+    "desc": "Math problem solver for a wide range of topics with guided steps and app-based features.",
     "category": "Learning & Education",
-    "tags": ["coding", "free", "certifications"]
+    "tags": ["math", "homework", "calculator"]
   },
   {
-    "name": "Bitwarden",
-    "url": "https://bitwarden.com",
-    "icon": "🔐",
-    "desc": "Open-source password manager for individuals and teams.",
-    "category": "Privacy & Security",
-    "tags": ["passwords", "open source", "encryption"]
+    "name": "PlayClassic.games",
+    "url": "https://playclassic.games",
+    "icon": "🕹️",
+    "desc": "Browser-based portal for playing classic retro games online with an enthusiast-focused catalog.",
+    "category": "Gaming",
+    "tags": ["retro", "browser games", "classic"]
   },
   {
-    "name": "PrivacyGuides",
-    "url": "https://www.privacyguides.org",
-    "icon": "🛡️",
-    "desc": "Recommendations for privacy-respecting tools and services.",
-    "category": "Privacy & Security",
-    "tags": ["guides", "privacy", "recommendations"]
+    "name": "Logo Diffusion",
+    "url": "https://logodiffusion.com",
+    "icon": "🧠",
+    "desc": "AI logo generator that creates logo concepts from text prompts or sketches with iterative variations.",
+    "category": "AI & Content Generation",
+    "tags": ["logos", "design", "text-to-logo"]
   },
   {
-    "name": "Have I Been Pwned",
-    "url": "https://haveibeenpwned.com",
-    "icon": "🔍",
-    "desc": "Check if your email or phone has been in a data breach.",
-    "category": "Privacy & Security",
-    "tags": ["breach check", "security", "email"]
+    "name": "BuildCores",
+    "url": "https://buildcores.com",
+    "icon": "🧩",
+    "desc": "3D PC builder and part picker for planning builds, checking compatibility, and exploring hardware options.",
+    "category": "Gaming",
+    "tags": ["pc building", "hardware", "part picker"]
+  },
+  {
+    "name": "Bandy AI Magic Eraser",
+    "url": "https://bandy.ai/magic-eraser",
+    "icon": "🧽",
+    "desc": "AI object-removal tool aimed at cleaning up product photos by erasing unwanted elements quickly.",
+    "category": "Photo & Video Editing",
+    "tags": ["object removal", "e-commerce", "AI"]
+  },
+  {
+    "name": "AirConsole",
+    "url": "https://www.airconsole.com",
+    "icon": "📱",
+    "desc": "Multiplayer gaming platform where phones act as controllers for party games on a shared screen.",
+    "category": "Gaming",
+    "tags": ["multiplayer", "party games", "phones as controllers"]
+  },
+  {
+    "name": "React Bits",
+    "url": "https://reactbits.dev",
+    "icon": "⚛️",
+    "desc": "Open-source library of animated, interactive React UI components for building punchy interfaces.",
+    "category": "Developer Tools",
+    "tags": ["react", "ui components", "animations"]
+  },
+  {
+    "name": "ProPhoto",
+    "url": "https://www.prophoto.app",
+    "icon": "📸",
+    "desc": "AI portrait and headshot generator trained on selfies to create consistent style variations.",
+    "category": "Photo & Video Editing",
+    "tags": ["ai portraits", "headshots", "selfies"]
   }
 ]
