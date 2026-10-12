@@ -1,19 +1,15 @@
 [
   {
-    "name": "HiAnime",
-    "url": "https://hianime.to",
-    "icon": "🍥",
-    "desc": "Free anime streaming portal with sub/dub catalogs and frequent domain/mirror churn.",
-    "category": "Anime & Manga",
-    "tags": ["anime", "streaming", "unverified"]
-  },
-  {
     "name": "Gogoanime",
     "url": "https://gogoanime.by",
     "icon": "📺",
     "desc": "Free anime site offering subbed and dubbed episodes with a large library and regular updates.",
     "category": "Anime & Manga",
-    "tags": ["anime", "sub/dub", "unverified"]
+    "tags": [
+      "anime",
+      "sub/dub",
+      "unverified"
+    ]
   },
   {
     "name": "Miruro",
@@ -21,7 +17,11 @@
     "icon": "🌙",
     "desc": "Anime streaming brand promoting free HD streams and tracking-style features like AniList sync.",
     "category": "Anime & Manga",
-    "tags": ["anime", "streaming", "mirrors"]
+    "tags": [
+      "anime",
+      "streaming",
+      "mirrors"
+    ]
   },
   {
     "name": "Enma",
@@ -29,56 +29,23 @@
     "icon": "🔥",
     "desc": "Free anime streaming site offering subbed and dubbed anime with a simple catalog layout.",
     "category": "Anime & Manga",
-    "tags": ["anime", "streaming", "unverified"]
+    "tags": [
+      "anime",
+      "streaming",
+      "unverified"
+    ]
   },
-  {
-    "name": "Animetsu",
-    "url": "https://animetsu.bz",
-    "icon": "🌀",
-    "desc": "Anime streaming brand that appears across multiple domains and can be JS-heavy/unstable to access.",
-    "category": "Anime & Manga",
-    "tags": ["anime", "mirrors", "unstable"]
-  },
-  {
-    "name": "AniWatchTV",
-    "url": "https://aniwatchtv.to/home",
-    "icon": "🧭",
-    "desc": "AniWatch-branded anime streaming portal with sub/dub listings and frequent lookalike branding online.",
-    "category": "Anime & Manga",
-    "tags": ["anime", "streaming", "brand-confusable"]
-  },
-  {
-    "name": "Kaido",
-    "url": "https://kaido.to/home",
-    "icon": "⚔️",
-    "desc": "Free anime streaming catalog with sub/dub options and fast-updating episode releases.",
-    "category": "Anime & Manga",
-    "tags": ["anime", "streaming", "unverified"]
-  },
-  {
-    "name": "AniCrush",
-    "url": "https://anicrush.to/home",
-    "icon": "💥",
-    "desc": "Anime streaming site with community features and a third-party content disclaimer style common to aggregators.",
-    "category": "Anime & Manga",
-    "tags": ["anime", "community", "unverified"]
-  },
-  {
-    "name": "AnimeKai",
-    "url": "https://animekai.to/home",
-    "icon": "🌸",
-    "desc": "Anime streaming portal offering sub/dub titles and a homepage-driven catalog of trending shows.",
-    "category": "Anime & Manga",
-    "tags": ["anime", "streaming", "unverified"]
-  },
-
   {
     "name": "MangaBall",
     "url": "https://mangaball.net",
     "icon": "📚",
     "desc": "Manga reader platform centered around community translations and chapter uploads.",
     "category": "Anime & Manga",
-    "tags": ["manga", "translations", "community"]
+    "tags": [
+      "manga",
+      "translations",
+      "community"
+    ]
   },
   {
     "name": "Atsumaru",
@@ -86,7 +53,11 @@
     "icon": "🍡",
     "desc": "Fast, ad-free manga/manhwa/manhua reader with open-source and self-hosted roots.",
     "category": "Anime & Manga",
-    "tags": ["manga", "reader", "open-source"]
+    "tags": [
+      "manga",
+      "reader",
+      "open-source"
+    ]
   },
   {
     "name": "Kagane",
@@ -94,7 +65,11 @@
     "icon": "🪶",
     "desc": "Manga/webcomics reading platform positioning itself as a premium reading experience with policy pages.",
     "category": "Anime & Manga",
-    "tags": ["manga", "reader", "dmca-policy"]
+    "tags": [
+      "manga",
+      "reader",
+      "dmca-policy"
+    ]
   },
   {
     "name": "Comick",
@@ -102,7 +77,11 @@
     "icon": "🗂️",
     "desc": "Manga discovery and reading site with tracking/community features and some historical domain confusion.",
     "category": "Anime & Manga",
-    "tags": ["manga", "tracking", "community"]
+    "tags": [
+      "manga",
+      "tracking",
+      "community"
+    ]
   },
   {
     "name": "MangaDex",
@@ -110,16 +89,95 @@
     "icon": "🧩",
     "desc": "Large manga translation aggregation platform with community uploads and broad discovery features.",
     "category": "Anime & Manga",
-    "tags": ["manga", "scanlation", "community"]
+    "tags": [
+      "manga",
+      "scanlation",
+      "community"
+    ]
   },
-
+  {
+    "name": "Crunchyroll",
+    "url": "https://www.crunchyroll.com",
+    "icon": "🍥",
+    "desc": "Licensed anime and manga streaming with simulcasts, dubs, and a large catalog.",
+    "category": "Anime & Manga",
+    "tags": [
+      "anime",
+      "streaming",
+      "official"
+    ]
+  },
+  {
+    "name": "HIDIVE",
+    "url": "https://www.hidive.com",
+    "icon": "🌸",
+    "desc": "Licensed anime streaming service with exclusives, simulcasts, and dubs.",
+    "category": "Anime & Manga",
+    "tags": [
+      "anime",
+      "streaming",
+      "official"
+    ]
+  },
+  {
+    "name": "AniList",
+    "url": "https://anilist.co",
+    "icon": "🧭",
+    "desc": "Anime and manga tracker with lists, scores, and a social activity feed.",
+    "category": "Anime & Manga",
+    "tags": [
+      "anime",
+      "tracking",
+      "community"
+    ]
+  },
+  {
+    "name": "MyAnimeList",
+    "url": "https://myanimelist.net",
+    "icon": "📒",
+    "desc": "Large anime and manga database for tracking, reviews, and recommendations.",
+    "category": "Anime & Manga",
+    "tags": [
+      "anime",
+      "database",
+      "tracking"
+    ]
+  },
+  {
+    "name": "Anime-Planet",
+    "url": "https://www.anime-planet.com",
+    "icon": "🌀",
+    "desc": "Anime and manga recommendations, lists, and a custom list builder.",
+    "category": "Anime & Manga",
+    "tags": [
+      "anime",
+      "recommendations",
+      "database"
+    ]
+  },
+  {
+    "name": "RetroCrush",
+    "url": "https://www.retrocrush.tv",
+    "icon": "📺",
+    "desc": "Free, licensed classic anime streaming with ads.",
+    "category": "Anime & Manga",
+    "tags": [
+      "anime",
+      "classic",
+      "free"
+    ]
+  },
   {
     "name": "1Shows",
     "url": "https://www.1shows.nl",
     "icon": "🎞️",
     "desc": "Free streaming-style portal for movies and TV with a catalog-first browsing experience.",
     "category": "Movies & TV",
-    "tags": ["movies", "tv", "unverified"]
+    "tags": [
+      "movies",
+      "tv",
+      "unverified"
+    ]
   },
   {
     "name": "1Flex",
@@ -127,39 +185,11 @@
     "icon": "📺",
     "desc": "All-in-one streaming portal with sections for movies, TV, live TV, and sports.",
     "category": "Movies & TV",
-    "tags": ["movies", "live-tv", "unverified"]
-  },
-  {
-    "name": "RgShows",
-    "url": "https://www.rgshows.ru",
-    "icon": "🧱",
-    "desc": "Streaming portal that publishes a DMCA page and provides third-party links; includes torrent-navigation pages.",
-    "category": "Movies & TV",
-    "tags": ["movies", "torrents", "high-risk"]
-  },
-  {
-    "name": "AlienFlix",
-    "url": "https://alienflix.net",
-    "icon": "👽",
-    "desc": "Movies/TV streaming catalog with a common “does not store files” third-party linking disclaimer pattern.",
-    "category": "Movies & TV",
-    "tags": ["movies", "tv", "high-risk"]
-  },
-  {
-    "name": "FlickyStream",
-    "url": "https://flickystream.ru",
-    "icon": "🍿",
-    "desc": "Streaming-style movies and TV site marketed around fast browsing and high-quality playback.",
-    "category": "Movies & TV",
-    "tags": ["movies", "tv", "unverified"]
-  },
-  {
-    "name": "SFlix",
-    "url": "https://sflix.fi",
-    "icon": "🎬",
-    "desc": "Free movies and TV streaming brand with aggregator-style disclaimers and a large catalog layout.",
-    "category": "Movies & TV",
-    "tags": ["movies", "tv", "high-risk"]
+    "tags": [
+      "movies",
+      "live-tv",
+      "unverified"
+    ]
   },
   {
     "name": "FMovies-HD",
@@ -167,7 +197,11 @@
     "icon": "🎥",
     "desc": "FMovies-branded free streaming portal with third-party linking disclaimers and a catalog of movies/series.",
     "category": "Movies & TV",
-    "tags": ["movies", "streaming", "high-risk"]
+    "tags": [
+      "movies",
+      "streaming",
+      "high-risk"
+    ]
   },
   {
     "name": "StreameX",
@@ -175,16 +209,71 @@
     "icon": "🛜",
     "desc": "Aggregator-style portal spanning multiple media types, with a published legal/DMCA page and broad catalog.",
     "category": "Movies & TV",
-    "tags": ["aggregator", "multi-media", "high-risk"]
+    "tags": [
+      "aggregator",
+      "multi-media",
+      "high-risk"
+    ]
   },
-
+  {
+    "name": "JustWatch",
+    "url": "https://www.justwatch.com",
+    "icon": "🎬",
+    "desc": "Find which legal service currently streams a movie or TV show in your country.",
+    "category": "Movies & TV",
+    "tags": [
+      "movies",
+      "tv",
+      "where-to-watch"
+    ]
+  },
+  {
+    "name": "Tubi",
+    "url": "https://tubitv.com",
+    "icon": "🍿",
+    "desc": "Free, ad-supported movies and TV from licensed studios.",
+    "category": "Movies & TV",
+    "tags": [
+      "movies",
+      "tv",
+      "free"
+    ]
+  },
+  {
+    "name": "Pluto TV",
+    "url": "https://pluto.tv",
+    "icon": "📡",
+    "desc": "Free live channels plus on-demand movies and TV, supported by ads.",
+    "category": "Movies & TV",
+    "tags": [
+      "live-tv",
+      "movies",
+      "free"
+    ]
+  },
+  {
+    "name": "Plex",
+    "url": "https://watch.plex.tv",
+    "icon": "🎥",
+    "desc": "Free ad-supported movies, shows, and live channels, plus personal media libraries.",
+    "category": "Movies & TV",
+    "tags": [
+      "movies",
+      "tv",
+      "free"
+    ]
+  },
   {
     "name": "NTVSTREAM",
     "url": "https://ntvstream.cx",
     "icon": "🏟️",
     "desc": "Live sports and IPTV-style portal offering multiple stream servers and 24/7 channel navigation.",
     "category": "Live TV & IPTV",
-    "tags": ["sports", "iptv", "unverified"]
+    "tags": [
+      "sports",
+      "iptv",
+      "unverified"
+    ]
   },
   {
     "name": "Public IPTV",
@@ -192,32 +281,47 @@
     "icon": "🌍",
     "desc": "Directory of IPTV channels by country and category with a playlist-like browsing structure.",
     "category": "Live TV & IPTV",
-    "tags": ["iptv", "directory", "unverified"]
+    "tags": [
+      "iptv",
+      "directory",
+      "unverified"
+    ]
   },
   {
-    "name": "xStreamEast",
-    "url": "https://xstreameast.com",
-    "icon": "🏀",
-    "desc": "StreamEast-branded site advertising free live sports streams across major leagues.",
-    "category": "Football & Sports",
-    "tags": ["sports", "live-streams", "high-risk"]
-  },
-  {
-    "name": "tv.garden",
-    "url": "https://tv.garden",
-    "icon": "🗺️",
-    "desc": "Live world TV directory that indexes publicly available channels in a simple map-like interface.",
+    "name": "ESPN",
+    "url": "https://www.espn.com",
+    "icon": "🏟️",
+    "desc": "Scores, news, and licensed live sports where a broadcast is available in your region.",
     "category": "Live TV & IPTV",
-    "tags": ["iptv", "directory", "public-streams"]
+    "tags": [
+      "sports",
+      "scores",
+      "live"
+    ]
   },
-
+  {
+    "name": "FotMob",
+    "url": "https://www.fotmob.com",
+    "icon": "⚽",
+    "desc": "Live football scores, lineups, and match pages without unofficial streams.",
+    "category": "Live TV & IPTV",
+    "tags": [
+      "football",
+      "scores",
+      "live"
+    ]
+  },
   {
     "name": "Wegic",
     "url": "https://wegic.ai",
     "icon": "🧱",
     "desc": "AI website builder that creates and publishes sites via chat-style prompts and iteration.",
     "category": "AI & Content Generation",
-    "tags": ["website builder", "AI", "no-code"]
+    "tags": [
+      "website builder",
+      "AI",
+      "no-code"
+    ]
   },
   {
     "name": "InVideo",
@@ -225,7 +329,11 @@
     "icon": "🎞️",
     "desc": "Online video creation platform with templates and AI-assisted workflows for fast editing.",
     "category": "Photo & Video Editing",
-    "tags": ["video", "AI", "editor"]
+    "tags": [
+      "video",
+      "AI",
+      "editor"
+    ]
   },
   {
     "name": "UI Ball",
@@ -233,7 +341,11 @@
     "icon": "🌀",
     "desc": "Handy frontend resource featuring lightweight open-source loaders, spinners, and UI snippets.",
     "category": "Developer Tools",
-    "tags": ["ui", "loaders", "open-source"]
+    "tags": [
+      "ui",
+      "loaders",
+      "open-source"
+    ]
   },
   {
     "name": "Anime.js",
@@ -241,7 +353,11 @@
     "icon": "✨",
     "desc": "JavaScript animation library for building smooth, flexible web animations with a simple API.",
     "category": "Developer Tools",
-    "tags": ["javascript", "animations", "library"]
+    "tags": [
+      "javascript",
+      "animations",
+      "library"
+    ]
   },
   {
     "name": "Stirling PDF",
@@ -249,7 +365,11 @@
     "icon": "📄",
     "desc": "Open-source, self-hostable PDF toolkit for converting, editing, redacting, and automating PDF tasks.",
     "category": "Developer Tools",
-    "tags": ["pdf", "self-hosted", "open-source"]
+    "tags": [
+      "pdf",
+      "self-hosted",
+      "open-source"
+    ]
   },
   {
     "name": "FilePizza",
@@ -257,7 +377,11 @@
     "icon": "🍕",
     "desc": "Peer-to-peer file sharing in the browser using WebRTC for direct transfers without uploading to a server.",
     "category": "Privacy & Security",
-    "tags": ["p2p", "webrtc", "file transfer"]
+    "tags": [
+      "p2p",
+      "webrtc",
+      "file transfer"
+    ]
   },
   {
     "name": "Zoo",
@@ -265,7 +389,11 @@
     "icon": "🦾",
     "desc": "Modern CAD and hardware design platform featuring a conversational assistant for creating 3D designs.",
     "category": "Developer Tools",
-    "tags": ["cad", "hardware", "3d"]
+    "tags": [
+      "cad",
+      "hardware",
+      "3d"
+    ]
   },
   {
     "name": "ChatEDU",
@@ -273,7 +401,11 @@
     "icon": "🎓",
     "desc": "AI study tools for students, including practice questions and citation-oriented learning helpers.",
     "category": "Learning & Education",
-    "tags": ["study", "AI", "education"]
+    "tags": [
+      "study",
+      "AI",
+      "education"
+    ]
   },
   {
     "name": "Symbolab",
@@ -281,7 +413,11 @@
     "icon": "🧮",
     "desc": "Step-by-step math solver covering algebra through calculus and beyond with worked solutions.",
     "category": "Learning & Education",
-    "tags": ["math", "solver", "step-by-step"]
+    "tags": [
+      "math",
+      "solver",
+      "step-by-step"
+    ]
   },
   {
     "name": "Mathway",
@@ -289,7 +425,11 @@
     "icon": "📐",
     "desc": "Math problem solver for a wide range of topics with guided steps and app-based features.",
     "category": "Learning & Education",
-    "tags": ["math", "homework", "calculator"]
+    "tags": [
+      "math",
+      "homework",
+      "calculator"
+    ]
   },
   {
     "name": "PlayClassic.games",
@@ -297,7 +437,11 @@
     "icon": "🕹️",
     "desc": "Browser-based portal for playing classic retro games online with an enthusiast-focused catalog.",
     "category": "Gaming",
-    "tags": ["retro", "browser games", "classic"]
+    "tags": [
+      "retro",
+      "browser games",
+      "classic"
+    ]
   },
   {
     "name": "Logo Diffusion",
@@ -305,7 +449,11 @@
     "icon": "🧠",
     "desc": "AI logo generator that creates logo concepts from text prompts or sketches with iterative variations.",
     "category": "AI & Content Generation",
-    "tags": ["logos", "design", "text-to-logo"]
+    "tags": [
+      "logos",
+      "design",
+      "text-to-logo"
+    ]
   },
   {
     "name": "BuildCores",
@@ -313,7 +461,11 @@
     "icon": "🧩",
     "desc": "3D PC builder and part picker for planning builds, checking compatibility, and exploring hardware options.",
     "category": "Gaming",
-    "tags": ["pc building", "hardware", "part picker"]
+    "tags": [
+      "pc building",
+      "hardware",
+      "part picker"
+    ]
   },
   {
     "name": "Bandy AI Magic Eraser",
@@ -321,7 +473,11 @@
     "icon": "🧽",
     "desc": "AI object-removal tool aimed at cleaning up product photos by erasing unwanted elements quickly.",
     "category": "Photo & Video Editing",
-    "tags": ["object removal", "e-commerce", "AI"]
+    "tags": [
+      "object removal",
+      "e-commerce",
+      "AI"
+    ]
   },
   {
     "name": "AirConsole",
@@ -329,7 +485,11 @@
     "icon": "📱",
     "desc": "Multiplayer gaming platform where phones act as controllers for party games on a shared screen.",
     "category": "Gaming",
-    "tags": ["multiplayer", "party games", "phones as controllers"]
+    "tags": [
+      "multiplayer",
+      "party games",
+      "phones as controllers"
+    ]
   },
   {
     "name": "React Bits",
@@ -337,7 +497,11 @@
     "icon": "⚛️",
     "desc": "Open-source library of animated, interactive React UI components for building punchy interfaces.",
     "category": "Developer Tools",
-    "tags": ["react", "ui components", "animations"]
+    "tags": [
+      "react",
+      "ui components",
+      "animations"
+    ]
   },
   {
     "name": "ProPhoto",
@@ -345,6 +509,10 @@
     "icon": "📸",
     "desc": "AI portrait and headshot generator trained on selfies to create consistent style variations.",
     "category": "Photo & Video Editing",
-    "tags": ["ai portraits", "headshots", "selfies"]
+    "tags": [
+      "ai portraits",
+      "headshots",
+      "selfies"
+    ]
   }
 ]
