@@ -416,4 +416,204 @@
     "category": "Anime & Manga",
     "tags": ["anime", "unverified", "access-issue"]
   }
+  {
+    "name": "BO1 Zombies",
+    "url": "https://vel.gg/bo1z",
+    "icon": "🧟",
+    "desc": "Browser port of the Call of Duty: Black Ops zombies mode, playable without installing anything.",
+    "category": "Gaming",
+    "tags": ["zombies", "browser games", "fan-port"]
+  },
+  {
+    "name": "Moon (Zombies)",
+    "url": "https://moon-REPLACE-ME.pages.dev",
+    "icon": "🌕",
+    "desc": "Browser-playable port of the Moon zombies map, hosted on Cloudflare Pages.",
+    "category": "Gaming",
+    "tags": ["zombies", "browser games", "fan-port"]
+  },
+  {
+    "name": "Kino der Toten",
+    "url": "https://kino-der-toten.pages.dev",
+    "icon": "🎭",
+    "desc": "Browser-playable port of the Kino der Toten zombies map, hosted on Cloudflare Pages.",
+    "category": "Gaming",
+    "tags": ["zombies", "browser games", "fan-port"]
+  },
+  {
+    "name": "BO3 Cheese Cube",
+    "url": "https://cheese-cube.pages.dev",
+    "icon": "🧀",
+    "desc": "Browser-based take on the Black Ops 3 Cheese Cube custom map.",
+    "category": "Gaming",
+    "tags": ["black ops 3", "browser games", "fan-port"]
+  },
+  {
+    "name": "Black Ops 2 (Web)",
+    "url": "https://vibeslops.luckeysystems.com",
+    "icon": "🎯",
+    "desc": "Browser-playable Black Ops 2 port hosted by an independent developer.",
+    "category": "Gaming",
+    "tags": ["fps", "browser games", "fan-port"]
+  },
+  {
+    "name": "Modern Warfare 2 (Web)",
+    "url": "https://ovz-game-production.up.railway.app",
+    "icon": "🪖",
+    "desc": "Browser-playable Modern Warfare 2 port hosted on Railway.",
+    "category": "Gaming",
+    "tags": ["fps", "browser games", "fan-port"]
+  },
+  {
+    "name": "Skate 3 (Web)",
+    "url": "https://skate.aaddpp.lol",
+    "icon": "🛹",
+    "desc": "Browser-based port of the Skate 3 skateboarding game.",
+    "category": "Gaming",
+    "tags": ["skateboarding", "browser games", "fan-port"]
+  },
+  {
+    "name": "Skate Rust",
+    "url": "https://global-terror.net",
+    "icon": "🛼",
+    "desc": "Browser-playable skateboarding game built in the style of the Skate series.",
+    "category": "Gaming",
+    "tags": ["skateboarding", "browser games", "fan-port"]
+  },
+  {
+    "name": "CS Surf (Surfd)",
+    "url": "https://surfd.net",
+    "icon": "🏄",
+    "desc": "Browser-playable Counter-Strike surf maps with no install required.",
+    "category": "Gaming",
+    "tags": ["counter-strike", "surf", "browser games"]
+  },
+  {
+    "name": "Halo CE (Web)",
+    "url": "https://mitchellhynes.com/halo",
+    "icon": "🛡️",
+    "desc": "Halo: Combat Evolved running in the browser, reportedly requiring your own game files.",
+    "category": "Gaming",
+    "tags": ["halo", "browser games", "fan-port"]
+  },
+  {
+    "name": "Halo CE Mobile",
+    "url": "https://hcemobile.com",
+    "icon": "📱",
+    "desc": "Mobile-friendly way to play Halo: Combat Evolved from the browser.",
+    "category": "Gaming",
+    "tags": ["halo", "mobile", "fan-port"]
+  },
+  {
+    "name": "PES 6 (Web)",
+    "url": "https://pes6.optijuegos.net",
+    "icon": "⚽",
+    "desc": "Browser-playable version of Pro Evolution Soccer 6.",
+    "category": "Gaming",
+    "tags": ["football", "retro", "browser games"]
+  },
+  {
+    "name": "GTA 5 (Web Archive)",
+    "url": "https://web.archive.org/web/2026100605",
+    "icon": "🚗",
+    "desc": "Archived snapshot of a browser-playable Grand Theft Auto V port.",
+    "category": "Gaming",
+    "tags": ["gta", "browser games", "archived"]
+  },
+  {
+    "name": "GTA Vice City (Web)",
+    "url": "https://joncodeofficial.github.io/gta-vice-city-",
+    "icon": "🌴",
+    "desc": "Browser port of Grand Theft Auto: Vice City hosted on GitHub Pages.",
+    "category": "Gaming",
+    "tags": ["gta", "browser games", "fan-port"]
+  },
+  {
+    "name": "The Simpsons: Hit & Run (Web)",
+    "url": "https://shar-wasm.cjoseph.workers.dev/?skipmovie",
+    "icon": "🍩",
+    "desc": "WebAssembly build of The Simpsons: Hit & Run that runs in the browser and can skip the intro movie.",
+    "category": "Gaming",
+    "tags": ["simpsons", "wasm", "browser games"]
+  },
+  {
+    "name": "Quake 1 (Web)",
+    "url": "https://q1.pieter.com",
+    "icon": "🔫",
+    "desc": "Quake running in the browser via a web port.",
+    "category": "Gaming",
+    "tags": ["quake", "retro", "browser games"]
+  },
+  {
+    "name": "Quake 2 (Web)",
+    "url": "https://q2.pieter.com",
+    "icon": "🔫",
+    "desc": "Quake II running in the browser via a web port.",
+    "category": "Gaming",
+    "tags": ["quake", "retro", "browser games"]
+  },
+  {
+    "name": "Quake 3 (Web)",
+    "url": "https://q3.pieter.com",
+    "icon": "🔫",
+    "desc": "Quake III Arena running in the browser via a web port.",
+    "category": "Gaming",
+    "tags": ["quake", "retro", "browser games"]
+  },
+  {
+    "name": "Return to Castle Wolfenstein (Web)",
+    "url": "https://rtcw.pieter.com",
+    "icon": "🏰",
+    "desc": "Return to Castle Wolfenstein playable in the browser via a web port.",
+    "category": "Gaming",
+    "tags": ["wolfenstein", "retro", "browser games"]
+  },
+  {
+    "name": "Unreal Tournament (Web)",
+    "url": "https://ut.pieter.com",
+    "icon": "💥",
+    "desc": "Unreal Tournament playable in the browser via a web port.",
+    "category": "Gaming",
+    "tags": ["unreal tournament", "retro", "browser games"]
+  },
+  {
+    "name": "Half-Life (Web)",
+    "url": "https://pixelsuft.github.io/hl/",
+    "icon": "🥽",
+    "desc": "Half-Life running in the browser, hosted on GitHub Pages.",
+    "category": "Gaming",
+    "tags": ["half-life", "retro", "browser games"]
+  },
+  {
+    "name": "Half-Life / CS 1.6 (Xash Web)",
+    "url": "https://x8bitrain.github.io/webxash/",
+    "icon": "🧪",
+    "desc": "WebAssembly build of the Xash engine for playing Half-Life and Counter-Strike 1.6 in the browser.",
+    "category": "Gaming",
+    "tags": ["half-life", "counter-strike", "wasm"]
+  },
+  {
+    "name": "Diablo Web",
+    "url": "https://johnimril.github.io/diablo_web/",
+    "icon": "😈",
+    "desc": "Browser port of the original Diablo, hosted on GitHub Pages.",
+    "category": "Gaming",
+    "tags": ["diablo", "retro", "browser games"]
+  },
+  {
+    "name": "Hedgewars (Web)",
+    "url": "https://webwars.link",
+    "icon": "🦔",
+    "desc": "Browser version of Hedgewars, the turn-based artillery game with hedgehogs.",
+    "category": "Gaming",
+    "tags": ["hedgewars", "strategy", "browser games"]
+  },
+  {
+    "name": "WasmArcade Fan Ports",
+    "url": "https://wasmarcade.com/Fan",
+    "icon": "🕹️",
+    "desc": "Collection of fan-made WebAssembly ports, including GTA and Minecraft. Some require your own game files.",
+    "category": "Gaming",
+    "tags": ["wasm", "fan-port", "gta", "minecraft"]
+  }
 ]
